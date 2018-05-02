@@ -20,7 +20,7 @@ pfSense 2.3 amd64:
 
 pfSense 2.4 amd64:
 
-```fetch -q -o /usr/local/etc/pkg/repos/Unofficial.conf https://raw.githubusercontent.com/JesusNavaL/Unofficial-pfSense-packages-wd/master/Unofficial.24.conf```
+```fetch -q -o /usr/local/etc/pkg/repos/Warriorsrepo.conf https://raw.githubusercontent.com/JesusNavaL/Unofficial-pfSense-packages-wd/master/Warriorsrepo.conf```
 
 
 pfSense 2.3 x86:
